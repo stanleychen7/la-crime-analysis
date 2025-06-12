@@ -23,8 +23,4 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-## 🚀 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/la-crime-analysis.git
